@@ -1,0 +1,13 @@
+Person1: Good morning, team. Let's address the key issues on our plate today. Chris, you've been investigating the missing cloud function related to user authentication. Can you provide an update?
+Person2: Sure, Alex. I've identified the root cause of the missing cloud function. It seems to have been inadvertently removed during the last deployment. I've started working on recreating it, and I estimate it to be a medium-sized task, around 5 story points.
+Person1: Thanks for the update, Chris. We'll designate this as Issue 1. You are the assignee. What's the status?
+Person2: I'm actively working on it and aiming to have the function reinstated by the end of the day.
+Person1: Great. Now, onto Issue 2. Jordan, you've been looking into the reported firewall issue. What have you found?
+Person3: I've identified a misconfiguration in the firewall rules that is causing certain traffic to be blocked unexpectedly. This is likely impacting the user experience for some clients.
+Person1: Alright, let's designate this as Issue 2. Jordan, you are the assignee for this one. What's your estimate in terms of story points for resolving the firewall issue?
+Person3: It's a relatively straightforward fix, so I'd estimate it at 3 story points.
+Person1: Good. Let's set the status of both issues. Chris, for the missing cloud function, is it "In Progress"?
+Person2: Yes, it's currently "In Progress."
+Person1: And Jordan, for the firewall issue?
+Person3: I'll start working on it right after this meeting, so let's set it to "To Do" for now.
+Person1: Perfect. Please provide regular updates, and let's aim to have both issues resolved by the end of the week. Meeting adjourned.
